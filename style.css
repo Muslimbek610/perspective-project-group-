@@ -52,3 +52,13 @@ button{
     color: white;
     cursor: pointer;
 }
+.fast{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 5%;
+}
+.fast ul li{
+    list-style: none;
+    margin-top: 5px;
+}
