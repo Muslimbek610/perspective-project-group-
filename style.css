@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+
+.img-ola img{
+    margin: auto;
+}
