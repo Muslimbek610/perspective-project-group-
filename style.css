@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    padding: 50px;
+    border: 1px solid red;
+    background-color: blueviolet;
+    
+    
+}
+div a{
+    color: white;
+    text-decoration: none;
+}
